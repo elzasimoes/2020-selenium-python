@@ -1,6 +1,6 @@
 # Selenium com Python por [Eduardo Mendes](https://selenium.dunossauro.live/ "@Dunossauro")
 
-![](https://img.shields.io/github/languages/count/elzasimoes/selenium-python?color=%2366BA69) ![](https://img.shields.io/github/languages/top/elzasimoes/selenium-python?color=%2366BA69) ![](https://img.shields.io/github/last-commit/elzasimoes/selenium-python/master?color=%2366BA69) ![](https://img.shields.io/github/license/elzasimoes/selenium-python?color=%2366BA69)
+![](https://img.shields.io/github/languages/count/elzasimoes/selenium-python?color=%2366BA69) ![](https://img.shields.io/github/languages/top/elzasimoes/selenium-python?color=%2366BA69) ![](https://img.shields.io/github/last-commit/elzasimoes/selenium-python/master?color=%2366BA69)
 
 [![Selenium com Python](https://selenium-python.com/wp-content/uploads/2017/11/cropped-logo-mini.png "Selenium com Python")](https://selenium-python.com/wp-content/uploads/2017/11/cropped-logo-mini.png "Selenium com Python")
 
