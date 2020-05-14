@@ -1,0 +1,11 @@
+<testsuite name="calc.Calc" tests="1" errors="0" failures="0" skipped="0" time="0.000995" timestamp="2020-05-13T21:26:10.581363" hostname="LAPTOP-BPBCU3R9"><testcase classname="calc.Calc" name="adicao basica" status="passed" time="0.000995"><system-out>
+<![CDATA[
+@scenario.begin
+  Cenario: adicao basica
+    Quando somar "2" com "2" ... passed in 0.001s
+    Então o resultado deve ser "4" ... passed in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
