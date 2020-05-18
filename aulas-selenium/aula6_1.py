@@ -26,8 +26,6 @@ btn = browser.find_element_by_css_selector('[name*="l0"]')
 nome = browser.find_element_by_css_selector('[name^="n"]')
 senha = browser.find_element_by_css_selector('[name^="s"]')
 btn = browser.find_element_by_css_selector('[name^="l"]')
-
-
 """
 #Usando o atributo ^ [attr^=valor]
 
